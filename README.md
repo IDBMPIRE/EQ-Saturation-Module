@@ -9,3 +9,5 @@ The hardware unit incorperates a preamp, Shelving EQ, saturation module (overdri
 This is all run from low voltage power supply (9-15v), as you will see three of five modules have been created (Preamp,EQ & Overdrive), Vactrol compression element is still in development stages on breadboard and the final amplification stage is yet to be built as it is just a duplication of the first initial preamplification module.
 
 Also included are the hardware schematics of all the elements utilised for the hardware unit.
+
+Housing has not yet been accomplished as all modules are not complete and im currently developing a mini internal patchbay system to allow changes in signal flow throughout the hardware unit.
