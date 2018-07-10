@@ -17,6 +17,8 @@ The software version is still as basic stages of development, as I want to finis
 
 I have created a six band equiliser that feeds an overdrive module, in comparison to the hardware version which has a two band shelving style equiliser, this decision was made due to not getting the desired sonic qualities whilst working on the hardware version, I wanted to evaluate if the character wanted was achievable using software over hardware. 
 
+EQ-Saturation-Module/Software Version Image.png
+
 Max MSP was my choice of software due to its tools and layout, I found it easier to create the neccesary elements needed to experiement with my concept, and I found its presentation mode very helpful when trying to test practicality and remove clutter in order to stay organised.
 
 There are a multitude of similar software plugins that exist in the world of audio but the main concept I found interesting was a newer plugin from Waves Audio called the CLA Mix Down, it is (typically) used on the mix bus to shape the overall tone and character of the mix. It has two faders for equilisation (low and high) a compression stage which can be stwitched between two different styles of compression and finally it has a drive stage meant to emulate driving the faders harder into the mix console (Youtube,2017). To me this was simply Eq,Compression and saturation and this is why I took an interest in developing something similar.
