@@ -17,7 +17,7 @@ The software version is still as basic stages of development, as I want to finis
 
 I have created a six band equiliser that feeds an overdrive module, in comparison to the hardware version which has a two band shelving style equiliser, this decision was made due to not getting the desired sonic qualities whilst working on the hardware version, I wanted to evaluate if the character wanted was achievable using software over hardware. 
 
-EQ-Saturation-Module/Software Version Image.png
+https://github.com/IDBMPIRE/EQ-Saturation-Module/blob/master/Software%20Version%20Image.png
 
 Max MSP was my choice of software due to its tools and layout, I found it easier to create the neccesary elements needed to experiement with my concept, and I found its presentation mode very helpful when trying to test practicality and remove clutter in order to stay organised.
 
